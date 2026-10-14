@@ -1,0 +1,17 @@
+{
+  "name": "agendamento-consultas-uml",
+  "version": "1.0.0",
+  "description": "Sistema de agendamento de consultas médicas em TypeScript com POO baseado em modelagem UML.",
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "tsx": "^4.19.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "typescript": "^5.7.0"
+  }
+}
